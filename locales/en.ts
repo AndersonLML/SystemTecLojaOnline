@@ -82,21 +82,21 @@ const en: { [key: string]: string } = {
   stationery: "Books, Stationery and Art",
   noProduct:
     "There are no products in this category yet! New products will be added soon.",
-  digitalBT: "Have the best Experiences",
+  digitalBT: "Sistema de Automação Comercial Completo",
   digitalBD:
-    "We provide the best Experience with the most popular Brands.  With a warranty of 18 months, you can be confident in your choice",
-  stationeryBT: "Variety in choice",
+    "NFE, NFCE, NFSE, + Ferramentas de Automação e Integração.",
+  stationeryBT: "Sistema de Automação Comercial Completo",
   stationeryBD:
-    "When it comes to Beauty and Efficiency. We specialize in providing stationery and office sets that are beautiful and high quality.",
-  toyBT: "Entertainment and the growth of Creativity",
+    "NFE, NFCE, NFSE, + Ferramentas de Automação e Integração.",
+  toyBT: "Sistema de Automação Comercial Completo",
   toyBD:
-    "Products with the best quality and anti-allergy to create happy moments",
-  houseBT: "Modern Home",
+    "NFE, NFCE, NFSE, + Ferramentas de Automação e Integração.",
+  houseBT: "Sistema de Automação Comercial Completo",
   houseBD:
-    "enjoy beautiful moments of satisfaction and peace with your loved ones at home with products designed according to the most recent and prominent styles.",
-  fashionBT: "Beauty and Comfort",
+    "NFE, NFCE, NFSE, + Ferramentas de Automação e Integração.",
+  fashionBT: "Sistema de Automação Comercial Completo",
   fashionBD:
-    "You will find the best fabrics, the hottest designs, and the most popular brands at reasonable prices. Look your best and stand out among the crowd.",
+    "NFE, NFCE, NFSE, + Ferramentas de Automação e Integração.",
   beautyBT: "Accentuates your Beauty",
   beautyBD:
     "allergen-free, people with all skin types can find products they need. Approved by the World Health Organization, products from world-renowned brands.",
