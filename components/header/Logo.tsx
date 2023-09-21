@@ -10,7 +10,7 @@ const Logo = () => {
           src="/images/logo.png"
           alt="zishop-logo"
           width={120}
-          height={25}
+          height={90}
           objectFit="contain"
           className="cursor-pointer md:ltr:-mr-3"
         />
