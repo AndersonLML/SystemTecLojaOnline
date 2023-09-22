@@ -38,7 +38,7 @@ export const sliderContent = [
     ID: 6,
     title: "beautyBT",
     description: "beautyBD",
-    bgImg: "url('/images/slider-img/vendadesite3-banner.webp')",
+    bgImg: "url('/images/slider-img/vendadesite4-banner.webp')",
     url: "/",
   },
 ];
