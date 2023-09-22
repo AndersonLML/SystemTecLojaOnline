@@ -100,7 +100,7 @@ const en: { [key: string]: string } = {
   beautyBD:
     "Site de Vendas Onlines Completo com gerenciamento de produtos de fácil manuseio e checkout seguro para receber.",
   deliver: "express delivery",
-  cash: "payment on the spot-",
+  cash: "payment on the spot",
   support: "24/7 support",
   warrantyBenefit: "Guarantee the originality",
   return: "commodity-back guarantee",
