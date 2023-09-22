@@ -10,7 +10,7 @@ export const sliderContent = [
     ID: 2,
     title: "stationeryBT",
     description: "stationeryBD",
-    bgImg: "url('/images/slider-img/vendadesite5-banner.webp')",
+    bgImg: "url('/images/slider-img/vendadesite5-banner.jpeg')",
     url: "/",
   },
   {
@@ -24,7 +24,7 @@ export const sliderContent = [
     ID: 4,
     title: "houseBT",
     description: "houseBD",
-    bgImg: "url('/images/slider-img/vendadesite5-banner.webp')",
+    bgImg: "url('/images/slider-img/vendadesite5-banner.jpeg')",
     url: "/",
   },
   {
@@ -38,7 +38,7 @@ export const sliderContent = [
     ID: 6,
     title: "beautyBT",
     description: "beautyBD",
-    bgImg: "url('/images/slider-img/vendadesite5-banner.webp')",
+    bgImg: "url('/images/slider-img/vendadesite5-banner.jpeg')",
     url: "/",
   },
 ];
