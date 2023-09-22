@@ -28,7 +28,7 @@ const Footer = () => {
               display: "inline",
             }}
           />
-          {locale === "en" ? "by Zahra Mirzaei" : "توسط زهرا میرزایی"}
+          {locale === "en" ? "by Anderson LML" : "توسط زهرا میرزایی"}
         </div>
         <div className="py-1">
           <StartQuot
@@ -50,12 +50,12 @@ const Footer = () => {
           />
           &nbsp;
           <a
-            href="https://cafedx.com/"
+            href="https://systemtecinformatica.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-palette-side underline font-bold bg-palette-primary px-2"
           >
-            CafeDX
+            SystemTec Informática
           </a>
         </div>
       </div>

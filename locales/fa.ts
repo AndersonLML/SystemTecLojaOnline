@@ -18,7 +18,7 @@ const fa: { [key: string]: string } = {
   cartIsEmpty: "سبد خرید شما خالی است",
   language: "انتخاب زبان:",
   fa: "فارسی - Fa",
-  en: "En - English",
+  en: "BR - Português Brasileiro",	
   theme: "انتخاب تم: ",
   dark: "تیره",
   light: "روشن",

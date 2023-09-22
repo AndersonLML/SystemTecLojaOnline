@@ -32,12 +32,12 @@ const About: NextPage = () => {
           />
           &nbsp;
           <a
-            href="https://cafedx.com/"
+            href="https://systemtecinformatica.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-palette-side underline font-bold bg-palette-primary px-2"
           >
-            CafeDX
+            SystemTec Informática
           </a>
         </p>
         <p className="my-4">{t.aboutEnjoy}</p>

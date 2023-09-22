@@ -39,7 +39,7 @@ const Language = () => {
         onClick={() => setOpenLang((prevState) => !prevState)}
       >
         <p className="mx-[0.3rem] text-sm font-bold font-english">
-          {locale === "en" ? "En" : "Fa"}
+          {locale === "en" ? "BR" : "Fa"}
         </p>
         <MdLanguage style={{ fontSize: "1.3rem" }} />
       </div>
@@ -52,7 +52,7 @@ const Language = () => {
           <div
             className={`absolute top-6 ltr:right-0 rtl:left-0 bg-palette-card py-3 px-6 shadow-md rounded-md z-10`}
           >
-            <LanguageItem language="fa" onCloseBox={onCloseLangBox} />
+            
             <LanguageItem language="en" onCloseBox={onCloseLangBox} />
           </div>
         </>
