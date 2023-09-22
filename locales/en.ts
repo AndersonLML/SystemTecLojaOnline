@@ -85,21 +85,20 @@ const en: { [key: string]: string } = {
   digitalBT: "Sistema de Automação Comercial Completo",
   digitalBD:
     "NFE, NFCE, NFSE, + Ferramentas de Automação e Integração.",
-  stationeryBT: "Sistema de Automação Comercial Completo",
+  stationeryBT: "Teste por 30 dias Grátis ",
   stationeryBD:
-    "NFE, NFCE, NFSE, + Ferramentas de Automação e Integração.",
+    "Site de Vendas Onlines Completo com gerenciamento de produtos de fácil manuseio e checkout seguro para receber.",
   toyBT: "Sistema de Automação Comercial Completo",
   toyBD:
     "NFE, NFCE, NFSE, + Ferramentas de Automação e Integração.",
-  houseBT: "Sistema de Automação Comercial Completo",
-  houseBD:
-    "NFE, NFCE, NFSE, + Ferramentas de Automação e Integração.",
+  houseBT: "Teste por 30 dias Grátis",
+  houseBD: "Site de Vendas Onlines Completo com gerenciamento de produtos de fácil manuseio e checkout seguro para receber.",
   fashionBT: "Sistema de Automação Comercial Completo",
   fashionBD:
     "NFE, NFCE, NFSE, + Ferramentas de Automação e Integração.",
-  beautyBT: "Accentuates your Beauty",
+  beautyBT: "Teste por 30 dias Grátis",
   beautyBD:
-    "allergen-free, people with all skin types can find products they need. Approved by the World Health Organization, products from world-renowned brands.",
+    "Site de Vendas Onlines Completo com gerenciamento de produtos de fácil manuseio e checkout seguro para receber.",
   deliver: "express delivery",
   cash: "payment on the spot",
   support: "24/7 support",
