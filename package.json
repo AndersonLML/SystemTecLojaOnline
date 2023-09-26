@@ -14,7 +14,7 @@
     "@reduxjs/toolkit": "^1.8.2",
     "@sanity/client": "^3.3.0",
     "@sanity/image-url": "^1.0.1",
-    "@stripe/stripe-js": "^1.29.0",
+    "@stripe/stripe-js": "^1.54.2",
     "@types/bcryptjs": "^2.4.2",
     "@types/js-cookie": "^3.0.2",
     "@types/jsonwebtoken": "^8.5.8",
@@ -23,6 +23,7 @@
     "@types/react-star-rating-component": "^1.4.1",
     "@types/react-transition-group": "^4.4.4",
     "@zeit/next-css": "^1.0.2-canary.0",
+    "@stripe/stripe-js": "^1.49.0",
     "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
     "caniuse-lite": "^1.0.30001534",
@@ -45,8 +46,11 @@
     "react-toastify": "^9.0.7",
     "react-transition-group": "^4.4.2",
     "slick-carousel": "^1.8.1",
-    "stripe": "^9.1.0",
-    "url-loader": "^4.1.1"
+    "swr": "^2.2.2",
+    "url-loader": "^4.1.1",
+    "use-shopping-cart": "^3.1.8",
+    "sanity": "^3.16.7",
+    "stripe": "^11.14.0"
   },
   "devDependencies": {
     "@types/node": "17.0.31",

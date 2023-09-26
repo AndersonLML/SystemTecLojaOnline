@@ -1,3 +1,5 @@
+"use client";
+
 import type { NextPage } from "next";
 import { useEffect } from "react";
 import dynamic from "next/dynamic";
@@ -10,6 +12,7 @@ import { client } from "../lib/client";
 
 import Benefits from "../components/Benefits";
 import Carousel from "../components/carousel";
+import CartSummary from "../components/cart/CartSummary";
 const Offers = dynamic(() => import("../components/Offers/Offers"));
 const Category = dynamic(() => import("../components/category/Category"));
 const Newest = dynamic(() => import("../components/newest/Newest"));
@@ -41,6 +44,7 @@ const Home: NextPage<{ products: IProduct[] }> = ({ products }) => {
       <Newest />
       <Banners />
       <Brands />
+      
     </div>
   );
 };

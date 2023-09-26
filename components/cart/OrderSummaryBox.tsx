@@ -38,7 +38,7 @@ const OrderSummaryBox = () => {
               <ProductPrice price={totalAmount} />
             </div>
           </div>
-          <Link href="/">
+          <Link href="/cart">
             <a className="block bg-palette-primary md:mt-8 py-3 rounded-lg text-palette-side text-center shadow-lg">
               {t.order}
             </a>
